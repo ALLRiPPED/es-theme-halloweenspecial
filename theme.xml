@@ -81,7 +81,7 @@ version         1.0
          <selectorColor>ef8d00</selectorColor>
          <selectedColor>000000</selectedColor>
          <primaryColor>ef8d00</primaryColor>
-         <secondaryColor>ef8d00</secondaryColor>
+         <secondaryColor>2d2d2d</secondaryColor>
          <fontPath>./_inc/fonts/ShallowGraveBB.ttf</fontPath>
          <fontSize>0.036</fontSize>
          <forceUppercase>1</forceUppercase>
@@ -98,7 +98,7 @@ version         1.0
          <selectorColor>ef8d00</selectorColor>
          <selectedColor>000000</selectedColor>
          <primaryColor>ef8d00</primaryColor>
-         <secondaryColor>ef8d00</secondaryColor>
+         <secondaryColor>2d2d2d</secondaryColor>
          <fontPath>./_inc/fonts/ShallowGraveBB.ttf</fontPath>
          <fontSize>0.036</fontSize>
          <forceUppercase>1</forceUppercase>
